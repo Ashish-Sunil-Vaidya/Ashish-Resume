@@ -1,0 +1,22 @@
+.phone{
+    fill: yellowgreen;
+}
+
+.location{
+    fill: orange;
+}
+
+.linkedin{
+    fill: white;
+    stroke: blue;
+}
+
+.github{
+    fill: darkgray;
+    stroke: black;
+}
+
+.footer svg{
+    fill: red;
+    margin-inline: 3px;
+}
